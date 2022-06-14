@@ -172,8 +172,7 @@ class MyFooter extends HTMLElement {
       -->
 
 <div class= "third-box">
-   <p class="made-with-love"> Made with 🤎 by Christina, advised by Abu, and art by Song. <a href="https://github.com/bluejam100/MSAC_website
-"> GitHub Repo</a>  </p>
+  
 </div>
     
   </footer>
